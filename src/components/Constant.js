@@ -1,0 +1,3 @@
+export const API_URL = "https://api.themoviedb.org/3/search/movie";
+export const DEFAULT_API_URL = "https://api.themoviedb.org/3/movie/popular";
+export const TOKEN = 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmM2IxM2ExM2Q5OThhMGZlMzA3YzU3ZGI2MDQ2MjRlZCIsIm5iZiI6MTczNTgyNDc2My4yOTEwMDAxLCJzdWIiOiI2Nzc2OTU3YjNmYzc2ZWE1ODg5MmVmZTgiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.KFd77skKRwhtPtyRPOeEaFvXqJcQzpniPuxA-zcVvPk'
